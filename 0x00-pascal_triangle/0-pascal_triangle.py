@@ -3,7 +3,7 @@
 
 
 def pascal_triangle(n):
-    """fucnrion to get the number of pascal triangle"""
+    """function to get the number of pascal triangle receiving inputs from a user"""
     if n <= 0:
         return []
 
